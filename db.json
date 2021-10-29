@@ -1,0 +1,81 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "name": "Afffffff",
+          "location": "HN",
+          "age": 20,
+          "phone": "123"
+        },
+        {
+          "id": 2,
+          "name": "B",
+          "location": "HT",
+          "age": 21,
+          "phone": "1235"
+        },
+        {
+          "id": 3,
+          "name": "C",
+          "location": "HCM",
+          "age": 9,
+          "phone": "12379"
+        },
+        {
+          "id": 4,
+          "name": "D",
+          "location": "QN",
+          "age": 26,
+          "phone": "12399"
+        },
+        {
+          "id": 5,
+          "name": "DE",
+          "location": "QNA",
+          "age": 36,
+          "phone": "12399"
+        },
+        {
+          "id": 6,
+          "name": "DK",
+          "location": "QNO",
+          "age": 37,
+          "phone": "123991"
+        },
+        {
+          "id": 7,
+          "name": "DI",
+          "location": "QNQ",
+          "age": 267,
+          "phone": "123990"
+        },
+        {
+          "id": 8,
+          "name": "I",
+          "location": "QNI",
+          "age": 20,
+          "phone": "12"
+        },
+        {
+          "id": 9,
+          "name": "D",
+          "location": "QN",
+          "age": 26,
+          "phone": "12399"
+        },
+        {
+          "id": 11,
+          "name": "D",
+          "location": "QN",
+          "age": 26,
+          "phone": "12399"
+        },
+        {
+          "id": 12,
+          "name": "D",
+          "location": "QN",
+          "age": 27,
+          "phone": "12399"
+        }
+      ]
+}
